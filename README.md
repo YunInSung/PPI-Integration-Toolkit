@@ -6,7 +6,7 @@ This work was supported by the Institute for Information & Communications Techno
 ## To install
 ```bash
 git clone --recursive https://github.com/iitp-ppi/PPI-Integration-Toolkit.git
-conda env create --file environment.yml
+conda env create --file environment.yml 
 
 conda activate ppi-toolkit
 ```
